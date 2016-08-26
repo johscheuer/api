@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"net/http"
 
-	"github.com/gorilla/rpc/v2/json2"
+	"github.com/quobyte/api/json2"
 )
 
 type QuobyteClient struct {
